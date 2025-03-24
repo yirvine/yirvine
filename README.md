@@ -6,6 +6,6 @@ I'm Yene, a full stack developer who loves turning ideas into tools. Always curi
 
 I come from a background in chemical engineering, where I worked with control systems — that experience sparked my interest in software engineering and how complex systems are designed. Since then, I've been especially drawn to system design, cloud architecture, and building data-driven applications.
 
-🛠️ I enjoy working across the stack, exploring how everything fits together — from backend logic to frontend UX, and from machine learning models to cloud deployments.
+I enjoy working across the stack, exploring how everything fits together — from backend logic to frontend UX, and from machine learning models to cloud deployments.
 
 📧 Contact me: yeneirvine@gmail.com
