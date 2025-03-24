@@ -9,5 +9,3 @@ I come from a background in chemical engineering, where I worked with control sy
 🛠️ I enjoy working across the stack, exploring how everything fits together — from backend logic to frontend UX, and from machine learning models to cloud deployments.
 
 📧 Contact me: yeneirvine@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yirvine&show_icons=true)
