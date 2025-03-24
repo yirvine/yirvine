@@ -5,7 +5,7 @@ Full stack developer who loves turning ideas into tools. Always curious, always 
 - [ResearchGate](https://www.researchgate.net/profile/Yene-Irvine)
 - [Instagram](https://www.instagram.com/yeneirvine)
 
-Contact Me: romildhagat@gmail.com 📧
+Contact Me: yeneirvine@gmail.com 📧
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yirvine&show_icons=true)
 
