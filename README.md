@@ -1,4 +1,3 @@
-
 Full stack developer who loves turning ideas into tools. Always curious, always building — especially with ML, APIs, and data-driven apps.
 
 ## 📫 How to reach me
