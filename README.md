@@ -4,7 +4,7 @@
 
 ---
 
-I'm Yene, a full stack dev who loves turning ideas into tools. Always curious, always building, especially with ML, APIs, and data-driven apps.
+I'm Yene, a full stack dev who loves turning ideas into tools. Always curious, always building - especially with ML, APIs, and data-driven apps.
 
 I come from a background in chemical engineering, where I worked closely with control systems, which sparked my interest in software engineering and how complex systems are designed. Since then, I've been especially drawn to system design, cloud architecture, and building data-driven applications.
 
