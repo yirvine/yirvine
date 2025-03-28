@@ -8,7 +8,7 @@ I come from a background in chemical engineering, where I worked closely with co
 
 I enjoy working across the stack, exploring how everything fits together — from backend logic to frontend UX, and from machine learning models to cloud deployments.
 
-I'm also into running, coffee, producing and playing and listening to music, travelling, the odd patio drink, working out, and rewatching clips from Always Sunny in Philadelphia for the 100th time. In that order.
+I'm also into running, coffee, producing and playing and listening to music, travelling, the odd patio drink, working out, and rewatching clips from Always Sunny in Philadelphia for the 100th time. Sometimes in that order.
 
 ---
 
